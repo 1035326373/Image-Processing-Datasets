@@ -25,3 +25,9 @@ A curated list of image processing datasets in regions of brightening, HDR, colo
 #### Image-Inpainting
  * Image Inpainting [[WEB]](http://chalearnlap.cvc.uab.es/dataset/30/description/)
    * 2018 Chalearn Looking at People Satellite Workshop ECCV
+
+
+#### Image Denoising
+
+
+#### Image Super-Resoluton and Upsampling
