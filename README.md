@@ -63,8 +63,9 @@ The list is maintained by Wenjing Wang, Dejia Xu, Qingyang Li, Wenhan Yang from 
 
 ## Dehazing
  * Waterloo IVC Dehazed Image Database [[PDF]](http://ieeexplore.ieee.org/document/7351475/) [[WEB]](http://ivc.uwaterloo.ca/database/Dehaze/Dehaze-Database.php)
-   * Perceptual evaluation of single image dehazing algorithms (ICIP'15), Kede Ma, Wentao Liu and Zhou Wang.
+   * Perceptual evaluation of single image dehazing algorithms (ICIP15), Kede Ma, Wentao Liu and Zhou Wang.
  * FRIDA dataset [[WEB]](http://perso.lcpc.fr/tarel.jean-philippe/bdd/frida.html)
+   * Vision Enhancement in Homogeneous and Heterogeneous Fog (IEEE Intelligent Transportation Systems Magazine 2012), J.-P. Tarel, N. Hautière, L. Caraffa, A. Cord, H. Halmaoui and D. Gruyer.
  * D-hazy [[PDF]](http://www.meo.etc.upt.ro/AncutiProjectPages/D_Hazzy_ICIP2016/D_HAZY_ICIP2016.pdf) [[WEB]](http://www.meo.etc.upt.ro/AncutiProjectPages/D_Hazzy_ICIP2016/)
  * CHIC [[PDF]](https://link.springer.com/chapter/10.1007/978-3-319-33618-3_12)
    * A Color Image Database for Haze Model and Dehazing Methods Evaluation
