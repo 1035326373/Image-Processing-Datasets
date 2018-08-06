@@ -82,11 +82,13 @@ The list is maintained by Wenjing Wang, Dejia Xu, Qingyang Li, Wenhan Yang from 
 ## Deblurring (Sharpening)
  * Motion Blurred Data (CVPR2009) [[Dataset]](http://webee.technion.ac.il/people/anat.levin/papers/LevinEtalCVPR09Data.rar) [[PDF]](https://ieeexplore.ieee.org/document/5206815)
    * Understanding and Evaluating Blind Deconvolution Algorithms (CVPR2009), Anat Levin, Yair Weiss, Fredo Durand, William T. Freeman.
- *  [[PDF]](https://ieeexplore.ieee.org/document/6528301/) [[WEB]](http://cs.brown.edu/~lbsun/deblur2013/deblur2013iccp.html)
+ * Blurred Data [[PDF]](https://ieeexplore.ieee.org/document/6528301/) [[WEB]](http://cs.brown.edu/~lbsun/deblur2013/deblur2013iccp.html)
    * Edge-based blur kernel estimation using patch priors (ICCP2013), Libin Sun, Sunghyun Cho, Jue Wang, James Hays.
- * Benchmarking blind deconvolution with a real-world database (ECCV'12) [[PDF]](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.379.1398&rep=rep1&type=pdf)
- * A Comparative Study for Single Image Blind Deblurring (CVPR'16) [[WEB]](http://vllab.ucmerced.edu/wlai24/cvpr16_deblur_study/)
-
+ * Deconvolution Dataset [[WEB]](http://webdav.is.mpg.de/pixel/benchmark4camerashake/) [[PDF]](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.379.1398&rep=rep1&type=pdf)
+   * Recording and playback of camera shake: benchmarking blind deconvolution with a real-world database (ECCV2012), Rolf Köhler, Michael Hirsch, Betty Mohler, Bernhard Schölkopf, Stefan Harmeling.
+ * Blurred Data [[PDF]](http://vllab.ucmerced.edu/wlai24/cvpr16_deblur_study/paper/cvpr16_deblur_study.pdf) [[WEB]](http://vllab.ucmerced.edu/wlai24/cvpr16_deblur_study/)
+   * A Comparative Study for Single Image Blind Deblurring (CVPR2016), Wei-Sheng Lai, Jia-Bin Huang, Zhe Hu, Narendra Ahuja, Ming-Hsuan Yang.
+   
 ## De-Raining
 
 ### rain streak removal
