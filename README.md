@@ -70,11 +70,12 @@ The list is maintained by Wenjing Wang, Dejia Xu, Qingyang Li, Wenhan Yang from 
    * D-HAZY: A Dataset to Evaluate Quantitatively Dehazing Algorithms (ICIP2016), Cosmin Ancuti, Codruta O. Ancuti, and Christophe De Vleeschouwer.
  * CHIC [[PDF]](https://link.springer.com/chapter/10.1007/978-3-319-33618-3_12)
    * A Color Image Database for Haze Model and Dehazing Methods Evaluation (ICISP2016), Jessica El Khoury, Jean-Baptiste Thomas, Alamin Mansouri.
- * HazeRD [[WEB]](https://labsites.rochester.edu/gsharma/research/computer-vision/hazerd/)[[PDF]](https://ieee-dataport.org/documents/hazerd-outdoor-dataset-dehazing-algorithms)
-   * HazeRD: an outdoor dataset for dehazing algorithms (ICIP2016), Yanfu Zhang, Li Ding, and Gaurav Sharma.
+ * HazeRD [[WEB]](https://labsites.rochester.edu/gsharma/research/computer-vision/hazerd/) [[PDF]](https://ieee-dataport.org/documents/hazerd-outdoor-dataset-dehazing-algorithms)
+   * HazeRD: An Outdoor Dataset for Dehazing Algorithms (ICIP2016), Yanfu Zhang, Li Ding, and Gaurav Sharma.
  * I-HAZE [[PDF]](https://arxiv.org/abs/1804.05091)
-   * I-HAZE : a dehazing benchmark with real hazy and haze-free outdoor images (), .
- * O-HAZE : a dehazing benchmark with real hazy and haze-free outdoor images [[PDF]](https://arxiv.org/abs/1804.05101)
+   * I-HAZE : A Dehazing Benchmark with Real Hazy and Haze-Free Outdoor Images (), .
+ * O-HAZE [[WEB]](http://www.vision.ee.ethz.ch/ntire18/o-haze/) [[PDF]](https://arxiv.org/abs/1804.05101)
+   * O-HAZE : A Dehazing Benchmark with Real Hazy And Haze-Free Outdoor Images
  * RESIDE: A Benchmark for Single Image Dehazing [[WEB]](https://sites.google.com/view/reside-dehaze-datasets)
 
 ## Deblurring (sharpening)
