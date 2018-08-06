@@ -103,7 +103,8 @@ The list is maintained by Wenjing Wang, Dejia Xu, Qingyang Li, Wenhan Yang from 
 
 ### rain drop removal
 
-* Attentive Generative Adversarial Network for Raindrop Removal from A Single Image (CVPR2018), [[PDF]](http://openaccess.thecvf.com/content_cvpr_2018/papers/Qian_Attentive_Generative_Adversarial_CVPR_2018_paper.pdf) [[WEB]](https://rui1996.github.io/raindrop/raindrop_removal.html)
+* Raindrop Removal [[PDF]](http://openaccess.thecvf.com/content_cvpr_2018/papers/Qian_Attentive_Generative_Adversarial_CVPR_2018_paper.pdf) [[WEB]](https://rui1996.github.io/raindrop/raindrop_removal.html)
+   * Attentive Generative Adversarial Network for Raindrop Removal from A Single Image (CVPR2018), Rui Qian, Robby T. Tan, Wenhan Yang, Jiajun Su, and Jiaying Liu.
 
  
 
