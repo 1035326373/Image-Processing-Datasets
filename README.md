@@ -80,7 +80,8 @@ The list is maintained by Wenjing Wang, Dejia Xu, Qingyang Li, Wenhan Yang from 
    * RESIDE: A Benchmark for Single Image Dehazing (TIP2018), Boyi Li, Wenqi Ren, Dengpan Fu, Dacheng Tao, Dan Feng, Wenjun Zeng, Zhangyang Wang.
 
 ## Deblurring (Sharpening)
- * Understanding and evaluating blind deconvolution algorithms (CVPR'09) [[PDF]](https://ieeexplore.ieee.org/document/5206815)
+ * Motion Blurred Data (CVPR2009) [[PDF]](https://ieeexplore.ieee.org/document/5206815)
+   * Understanding and evaluating blind deconvolution algorithms (CVPR2009), Anat Levin1, Yair Weiss, Fredo Durand, William T. Freeman.
  * Edge-based blur kernel estimation using patch priors [[PDF]](https://ieeexplore.ieee.org/document/6528301/)
  * Benchmarking blind deconvolution with a real-world database (ECCV'12) [[PDF]](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.379.1398&rep=rep1&type=pdf)
  * A Comparative Study for Single Image Blind Deblurring (CVPR'16) [[WEB]](http://vllab.ucmerced.edu/wlai24/cvpr16_deblur_study/)
