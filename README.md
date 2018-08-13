@@ -91,7 +91,7 @@ The list is maintained by Wenjing Wang, Dejia Xu, Qingyang Li, Wenhan Yang from 
    
 ## De-Raining
 
-### rain streak removal
+### Single image rain streak removal
  * Rain Streak Database [[PDF]](http://www1.cs.columbia.edu/CAVE/publications/pdfs/Garg_TOG06.pdf) [[WEB]](http://www1.cs.columbia.edu/CAVE/projects/rain_ren/rain_ren.php)
    * Photorealistic Rendering of Rain Streaks (TOG2006), Kshitiz Garg, Shree K. Nayar.
  * Rain12 [[PDF]](https://ieeexplore.ieee.org/abstract/document/7934436/) [[DATASET]](http://yu-li.github.io/paper/li_cvpr16_rain.zip)
@@ -103,9 +103,12 @@ The list is maintained by Wenjing Wang, Dejia Xu, Qingyang Li, Wenhan Yang from 
  * DID-MDN [[PDF]](http://openaccess.thecvf.com/content_cvpr_2018/papers/Zhang_Density-Aware_Single_Image_CVPR_2018_paper.pdf) [[WEB]](https://github.com/hezhangsprinter/DID-MDN)
    * Density-aware Single Image De-raining using a Multi-stream Dense Network (CVPR2018), He Zhang, Vishal M. Patel.
 
+### Video image rain streak removal
+* MS-CSC-Rain-Streak-Removal [[PDF]](http://openaccess.thecvf.com/content_cvpr_2018/papers/Li_Video_Rain_Streak_CVPR_2018_paper.pdf) [[WEB]](https://github.com/MinghanLi/MS-CSC-Rain-Streak-Removal)
+   * Video Rain Streak Removal By Multiscale ConvolutionalSparse Coding (CVPR2018), Minghan Li, Qi Xie, Qian Zhao, Wei Wei, Shuhang Gu, Jing Tao, Deyu Meng.
+
 ### rain drop removal
 
 * Raindrop Removal [[PDF]](http://openaccess.thecvf.com/content_cvpr_2018/papers/Qian_Attentive_Generative_Adversarial_CVPR_2018_paper.pdf) [[WEB]](https://rui1996.github.io/raindrop/raindrop_removal.html)
    * Attentive Generative Adversarial Network for Raindrop Removal from A Single Image (CVPR2018), Rui Qian, Robby T. Tan, Wenhan Yang, Jiajun Su, and Jiaying Liu.
-* MS-CSC-Rain-Streak-Removal [[PDF]](http://openaccess.thecvf.com/content_cvpr_2018/papers/Li_Video_Rain_Streak_CVPR_2018_paper.pdf) [[WEB]](https://github.com/MinghanLi/MS-CSC-Rain-Streak-Removal)
-   * Video Rain Streak Removal By Multiscale ConvolutionalSparse Coding (CVPR2018), Minghan Li, Qi Xie, Qian Zhao, Wei Wei, Shuhang Gu, Jing Tao, Deyu Meng.
+
