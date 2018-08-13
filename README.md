@@ -100,7 +100,6 @@ The list is maintained by Wenjing Wang, Dejia Xu, Qingyang Li, Wenhan Yang from 
    * Deep Joint Rain Detection and Removal From a Single Image (CVPR2017), Wenhan Yang, Robby T. Tan, Jiashi Feng, Jiaying Liu, Zongming Guo, and Shuicheng Yan.
  * Rain800 [[PDF]](https://arxiv.org/pdf/1701.05957v2.pdf) [[WEB]](https://github.com/hezhangsprinter/ID-CGAN)
    * Image De-raining Using a Conditional Generative Adversarial Network (CVPR2018), He Zhang, Sindagi, Vishwanath, Vishal M. Patel.
- * MS-CSC-Rain-Streak-Removal [[PDF]](http://openaccess.thecvf.com/content_cvpr_2018/papers/Li_Video_Rain_Streak_CVPR_2018_paper.pdf) [[WEB]](https://github.com/MinghanLi/MS-CSC-Rain-Streak-Removal)
    * Video Rain Streak Removal By Multiscale ConvolutionalSparse Coding (CVPR2018), Minghan Li, Qi Xie, Qian Zhao, Wei Wei, Shuhang Gu, Jing Tao, Deyu Meng.
  * DID-MDN [[PDF]](http://openaccess.thecvf.com/content_cvpr_2018/papers/Zhang_Density-Aware_Single_Image_CVPR_2018_paper.pdf) [[WEB]](https://github.com/hezhangsprinter/DID-MDN)
    * Density-aware Single Image De-raining using a Multi-stream Dense Network (CVPR2018), He Zhang, Vishal M. Patel.
@@ -109,6 +108,4 @@ The list is maintained by Wenjing Wang, Dejia Xu, Qingyang Li, Wenhan Yang from 
 
 * Raindrop Removal [[PDF]](http://openaccess.thecvf.com/content_cvpr_2018/papers/Qian_Attentive_Generative_Adversarial_CVPR_2018_paper.pdf) [[WEB]](https://rui1996.github.io/raindrop/raindrop_removal.html)
    * Attentive Generative Adversarial Network for Raindrop Removal from A Single Image (CVPR2018), Rui Qian, Robby T. Tan, Wenhan Yang, Jiajun Su, and Jiaying Liu.
-
- 
-
+   * MS-CSC-Rain-Streak-Removal [[PDF]](http://openaccess.thecvf.com/content_cvpr_2018/papers/Li_Video_Rain_Streak_CVPR_2018_paper.pdf) [[WEB]](https://github.com/MinghanLi/MS-CSC-Rain-Streak-Removal)
