@@ -107,7 +107,7 @@ The list is maintained by Wenjing Wang, Dejia Xu, Qingyang Li, Wenhan Yang from 
 * MS-CSC-Rain-Streak-Removal [[PDF]](http://openaccess.thecvf.com/content_cvpr_2018/papers/Li_Video_Rain_Streak_CVPR_2018_paper.pdf) [[WEB]](https://github.com/MinghanLi/MS-CSC-Rain-Streak-Removal)
    * Video Rain Streak Removal By Multiscale ConvolutionalSparse Coding (CVPR2018), Minghan Li, Qi Xie, Qian Zhao, Wei Wei, Shuhang Gu, Jing Tao, Deyu Meng.
 
-### rain drop removal
+### Rain drop removal
 
 * Raindrop Removal [[PDF]](http://openaccess.thecvf.com/content_cvpr_2018/papers/Qian_Attentive_Generative_Adversarial_CVPR_2018_paper.pdf) [[WEB]](https://rui1996.github.io/raindrop/raindrop_removal.html)
    * Attentive Generative Adversarial Network for Raindrop Removal from A Single Image (CVPR2018), Rui Qian, Robby T. Tan, Wenhan Yang, Jiajun Su, and Jiaying Liu.
