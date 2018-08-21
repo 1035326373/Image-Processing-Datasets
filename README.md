@@ -2,7 +2,8 @@
 
 A curated list of image processing datasets in regions of brightening, HDR, color enhancement and inpainting.
 
-The list is maintained by Wenjing Wang, Dejia Xu, Qingyang Li, Wenhan Yang from [STRUCT Group](http://www.icst.pku.edu.cn/struct/struct.html) at PKU.
+**The list is maintained by*
+Wenjing Wang, Dejia Xu, Qingyang Li, Wenhan Yang [STRUCT](http://www.icst.pku.edu.cn/struct/struct.html) PKU PI().
 
 ## Brightening
  * VIP-LowLight Dataset [[WEB]](https://uwaterloo.ca/vision-image-processing-lab/research-demos/vip-lowlight-dataset)
