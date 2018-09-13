@@ -92,6 +92,8 @@ A curated list of image processing datasets in regions of brightening, HDR, colo
    * Recording and Playback of Camera Shake: Benchmarking Blind Deconvolution With a Real-World Database (ECCV2012), Rolf Köhler, Michael Hirsch, Betty Mohler, Bernhard Schölkopf, Stefan Harmeling.
  * Blurred Data [[PDF]](http://vllab.ucmerced.edu/wlai24/cvpr16_deblur_study/paper/cvpr16_deblur_study.pdf) [[WEB]](http://vllab.ucmerced.edu/wlai24/cvpr16_deblur_study/)
    * A Comparative Study for Single Image Blind Deblurring (CVPR2016), Wei-Sheng Lai, Jia-Bin Huang, Zhe Hu, Narendra Ahuja, Ming-Hsuan Yang.
+ * Text Deblurring Dataset [[PDF]](http://www.fit.vutbr.cz/~ihradis/pubs.php?file=%2Fpub%2F10922%2Fhradis15CNNdeblurring.pdf&id=10922) [[WEB]](http://www.fit.vutbr.cz/~ihradis/CNN-Deblur/)
+   * Convolutional Neural Networks for Direct Text Deblurring (BMVC2015), Hradiš, Michal, Jan Kotera, Pavel Zemcík, and Filip Šroubek.
    
 ## De-Raining
 
